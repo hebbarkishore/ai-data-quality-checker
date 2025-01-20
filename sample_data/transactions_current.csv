@@ -1,0 +1,12 @@
+id,amount,category,timestamp,email,phone
+1,20.50,grocery,2025-08-01 10:05:00,alice@example.com,404-555-1111
+2,15000.00,utilities,2025-08-01 11:20:00,bob@example.com,404-555-2222
+3,,restaurant,2025-08-02 12:35:00,charlie@example.com,404-555-3333
+4,12.00,grocery,2025-08-03 13:50:00,,404-555-4444
+5,200.00,travel,2025-08-03 15:10:00,dan@example.com,123-45-6789
+6,35.25,gas,2025-08-04 16:30:00,,404-555-5555
+7,99.99,shopping,2025-08-05 17:45:00,ellen@example.org,4111 1111 1111 1111
+7,99.99,shopping,2025-08-05 17:45:00,ellen@example.org,4111 1111 1111 1111
+8,15.49,grocery,2025-08-06 18:05:00,,
+9,180.00,other,2025-08-07 19:25:00,frank@example.net,404-555-6666
+10,50.00,restaurant,2025-08-07 20:45:00,,

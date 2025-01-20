@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data
+*.csv
+!sample_data/*.csv
+*.parquet
+*.xlsx
+
+# OS / others
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
